@@ -7,11 +7,11 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Ramaguru Radhakrishnan"
+title                    : "Roshni Venkatesan"
 title_separator          : "-"
-name                     : &name "Ramaguru Radhakrishnan"
-description              : &description "Assistant Professor at Amrita Vishwa Vidyapeetham | Founder and Lead Researcher at நம்Chain® Open Initiative Research Lab"
-url                      : https://ramagururadhakrishnan.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+name                     : &name "Roshni Venkatesan"
+description              : &description "Sophomore Student at Amrita Vishwa Vidyapeetham | Vice President at Women in Cybersecurity"
+url                      : https://CeraMapleheart.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "academicpages/academicpages.github.io"
 teaser                   :  
@@ -57,7 +57,7 @@ yandex_site_verification :
 
 # Social Sharing
 twitter:
-  username               : &ramaguru
+  username               : &roshni
 facebook:
   username               :
   app_id                 :
@@ -80,29 +80,29 @@ analytics:
 
 # Site Author
 author:
-  name             : "Ramaguru Radhakrishnan"
-  avatar           : "Ramaguru_R.jpg"
-  bio              : "Assistant Professor at Amrita Vishwa Vidyapeetham | Founder and Lead Researcher at நம்Chain® Open Initiative Research Lab"
+  name             : "CeraMapleheart.github.io"
+  avatar           : "Roshni.png"
+  bio              : "Sophomore Student at Amrita Vishwa Vidyapeetham | Vice President at Women in Cybersecurity"
   location         : "Coimbatore, India"
   employer         : "Amrita Vishwa Vidyapeetham"
-  home             : "https://amrita.edu/faculty/ramaguru-radhakrishnan/"
-  googlescholar    : "https://scholar.google.com/citations?user=-DjvKqgAAAAJ"
-  email            : "ramaguru.90[at]gmail[dot]com"
-  researchgate     : "https://www.researchgate.net/profile/Ramaguru-Radhakrishnan"
-  bitbucket        : "ramagururadhakrishnan"
+  home             : "https://CeraMapleheart.github.io"
+  googlescholar    : "https://scholar.google.com/citations?user=c0986hQAAAAJ"
+  email            : "roshnivenkatesan04[at]gmail[dot]com"
+  researchgate     : "https://www.researchgate.net/profile/Roshni-Venkatesan"
+  bitbucket        : #"ramagururadhakrishnan"
   codepen          : "ramagururadhakrishnan"
-  github           : "ramagururadhakrishnan"
-  growkudos        : "https://www.growkudos.com/profile/ramaguru_radhakrishnan"
-  keybase          : "ramagurur"
+  github           : "CeraMapleheart"
+  growkudos        : #"https://www.growkudos.com/profile/ramaguru_radhakrishnan"
+  keybase          : #"ramagurur"
   instagram        : #"ramagururadhakrishnan"
-  impactstory      : "https://profiles.impactstory.org/u/0000-0002-9508-5902"
-  linkedin         : "ramaguru-radhakrishnan"
-  orcid            : "https://orcid.org/0000-0002-9508-5902"
-  scopus           : "https://www.scopus.com/authid/detail.uri?authorId=57210210467"   
+  impactstory      : #"https://profiles.impactstory.org/u/0000-0002-9508-5902"
+  linkedin         : "roshni-venkatesan"
+  orcid            : "https://orcid.org/0000-0002-2240-5960"
+  scopus           : #"https://www.scopus.com/authid/detail.uri?authorId=57210210467"   
   soundcloud       : #"ramaguru-radhakrishnan"
-  stackoverflow    : "17151586/ramaguru-radhakrishnan"
+  stackoverflow    : #"17151586/ramaguru-radhakrishnan"
   twitter          : #"Ramaguru"
-  xing             : "Ramaguru_Radhakrishnan"
+  xing             : #"Ramaguru_Radhakrishnan"
   youtube          : #"https://www.youtube.com/c/RamaguruRadhakrishnan/"
   wikipedia        :
 
